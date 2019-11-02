@@ -1,6 +1,6 @@
 # From Pandas Dataframe To SQL Table using Psycopg2
 
-Full functionning example associated to my blog post TBD. 
+Full functionning example associated to my [blog post](https://naysan.ca/2019/11/02/from-pandas-dataframe-to-sql-table-using-psycopg2). 
 The data for this tutorial is freely available from the World Bank website https://data.worldbank.org/indicator/en.atm.co2e.pc. The version stored in the data/ directory of this repo is a simplified version of that zip file.
 
 ## Step-by-step Jupyter notebook
