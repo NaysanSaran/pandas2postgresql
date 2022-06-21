@@ -1,4 +1,4 @@
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.3
 psycopg2==2.8.4
 python-dateutil==2.8.0
